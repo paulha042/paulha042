@@ -29,8 +29,8 @@
   - Experiment with **deeper U-Net** or **transformer-based** architectures to enhance robustness and image realism.
 
 ## Machine Learning Project
- 
-  ## 🚗 [Machine Learning – Car Sales Price Prediction](https://github.com/paulha042/Car_Sales_Prediction)
+
+<h3 style="padding-left:40px">🚗<a href="https://github.com/paulha042/Car_Sales_Prediction">Machine Learning – Car Sales Price Prediction</a></h3>
 
 - **Dataset:** A private car sales dataset from a Kaggle competition containing vehicle attributes such as year, mileage, brand, fuel type, and engine specifications to predict selling prices.
 
@@ -42,3 +42,13 @@
 - **Achievement:**  
   - Developed a **car price prediction model** achieving **10% Mean Absolute Percentage Error (MAPE)**.
   - Compare the capabilities and the peformance of each model to provide the highest accuracy.
+ 
+<h3 style="padding-left:40px">🛒<a href="https://github.com/paulha042/Customer_Segmentation_Analysis">Customer Segmentation Analysis</a></h3>
+
+- Applied **K-Means++** and **Agglomerative Clustering** to segment customers based on purchasing behavior.  
+- Enabled businesses to design **personalized marketing strategies**, improve **customer retention**, and **optimize product recommendations**.  
+- Conducted **feature scaling** and **elbow/silhouette analysis** to determine optimal cluster numbers.  
+- Compared the clusters generated from two algorithms (see how they perform differently, we don't measure accuracy here 🙂).
+- Recommend strategies to target each customer segment generated from the two algorithms.
+
+## Data Visualization
